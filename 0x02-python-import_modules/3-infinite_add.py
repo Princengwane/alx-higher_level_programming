@@ -8,4 +8,4 @@ if lenght == 0:
 else:
     for i in range(lenght):
         sum += int(sys.argv[i + 1])
-        print("{}".format(sum))
+    print("{}".format(sum))
